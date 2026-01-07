@@ -30,8 +30,8 @@
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Languages** | Python 🐍, Java ☕, C++, JavaScript (ES6+), SQL |
-| **Backend** | Spring Boot, Node.js/Express, RESTful APIs |
+| **Languages** | Python 🐍, Java ☕, SQL |
+| **Backend** | Spring Boot, RESTful APIs |
 | **Frontend** | React |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
 | **Cloud & DevOps** | AWS ☁️, Azure, Docker 🐳, Kubernetes, GitHub Actions (CI/CD), SonarQube |
@@ -45,7 +45,7 @@
 #### 🧳 [AI Travel Planner (LangGraph)](https://github.com/thejasprab/legalRAG)
 > An **agentic workflow system** built with LangGraph to plan personalized travel itineraries with dynamic task coordination and API integrations.
 
-#### 🔥 [Arxiv Spark Pipeline (Ongoing)](https://github.com/thejasprab/CCDACourseProject)
+#### 🔥 [Sparxiv](https://github.com/thejasprab/CCDACourseProject)
 > A **data engineering project** leveraging **Apache Spark** to analyze and visualize **Arxiv research trends** on cloud infrastructure.
 
 #### ✅ [Track Task - Android App](https://github.com/thejasprab/Tasks-Tracker-Mobile-App)
