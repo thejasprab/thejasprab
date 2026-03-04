@@ -42,7 +42,7 @@
 
 ### 🚀 Featured Projects  
 
-#### 🧳 [AI Travel Planner (LangGraph)](https://github.com/thejasprab/legalRAG)
+#### 🧳 [AI Travel Planner (LangGraph)](https://github.com/thejasprab/travelPlanner)
 > An **agentic workflow system** built with LangGraph to plan personalized travel itineraries with dynamic task coordination and API integrations.
 
 #### 🔥 [Sparxiv](https://github.com/thejasprab/CCDACourseProject)
