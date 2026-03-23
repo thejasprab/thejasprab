@@ -19,9 +19,7 @@
 ---
 
 ### 🧠 Currently Learning
-- ⚙️ **Cloud Computing with Data Analytics (Spark + Cloud)**
 - 🤖 **Building Generative AI Applications**
-- 📱 **Mobile App Development (Android + Java)**
 - 🌐 **Full Stack Web Development (Node.js, React, SQL)**
 
 ---
@@ -48,8 +46,8 @@
 #### 🔥 [Sparxiv](https://github.com/thejasprab/CCDACourseProject)
 > A **data engineering project** leveraging **Apache Spark** to analyze and visualize **Arxiv research trends** on cloud infrastructure.
 
-#### ✅ [Track Task - Android App](https://github.com/thejasprab/Tasks-Tracker-Mobile-App)
-> A **task management app** that organizes tasks by priority (LOW, MEDIUM, HIGH) using **ViewPager2** and **TabLayout** with centralized communication.
+#### 🛒 [RenjiCart - E-Commerce](https://github.com/thejasprab/RenjiCart)
+> A **E-Commerce Web app** that provides API's for maintaining online store, including product browsing, filtering, reviews, and order creation.
 
 #### ⚖️ [Legal Document RAG Chatbot](https://github.com/thejasprab/legalRAG)
 > A **Retrieval-Augmented Generation (RAG)** chatbot for legal document Q&A using **LangChain**, **FAISS**, **HuggingFace embeddings**, and a **Gradio UI**.
@@ -58,8 +56,7 @@
 
 ### ☁️ Career Interests  
 🎯 Software Engineering (Backend / Full Stack)  
-🧬 Generative AI & Machine Learning Engineering  
-☁️ Data Engineering & Cloud Solutions  
+🧬 Generative AI & Machine Learning Engineering
 
 ---
 
